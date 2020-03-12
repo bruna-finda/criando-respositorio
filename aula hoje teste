@@ -1,0 +1,12 @@
+/*
+Comentário de
+múltiplas linhas
+*/
+
+/*
+* Comentario de
+* múltiplas linhas
+*/
+
+//Comentário de uma linha
+console.log('Linha1');
